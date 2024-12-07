@@ -7,9 +7,9 @@ def get_multiplied_digits(number):
         return int(str_number)
 
 
-result = get_multiplied_digits(40203)
+result1 = get_multiplied_digits(40203)
 
-print(result)
+print(result1)
 
 result2 = get_multiplied_digits(4020301)
 
